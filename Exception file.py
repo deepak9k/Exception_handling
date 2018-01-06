@@ -34,6 +34,8 @@ if __name__=="__main__" :
 
     try:
         a = 5
+        b = 0
+        c=a/b
 
 
     except ArithmeticError:
