@@ -34,11 +34,10 @@ if __name__=="__main__" :
 
     try:
         a = 5
-        c = 0
-        m = a / 2
+
 
     except ArithmeticError:
-        print("Zero division not allowed")
+        print("Zero division not allowed gngn ok done")
 
     else:
         print("there is not any exception")
